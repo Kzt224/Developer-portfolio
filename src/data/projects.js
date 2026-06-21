@@ -16,7 +16,7 @@ export const projects = [
     id: "2",
     title: "Real-time Chat App",
     description:
-      "Internal analytics platform for product and growth teams. Real-time event streams, custom metrics, and export to BigQuery. Handles 10M+ events/day.",
+      "Mini real time chat Application, creating for educational purpose, can sent image, text to each other with real time.",
     image: pj_two,
     tech: ["React.js", "MongoDB", "Tanstack Query", "Zustand", "Web socket", "Node.js"],
     github: "https://github.com/Kzt224/chat_app.git",
