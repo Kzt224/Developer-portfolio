@@ -26,7 +26,7 @@ export function Projects() {
           Projects
         </h2>
         <p className="mt-2 max-w-2xl text-zinc-600 dark:text-zinc-400">
-          A selection of recent work — product, infra, and side projects.
+          A selection of recent work — product and side projects.
         </p>
 
         <div className="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-1">
