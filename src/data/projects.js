@@ -16,7 +16,7 @@ export const projects = [
     id: "2",
     title: "Real-time Chat App",
     description:
-      "Mini real time chat Application, creating for educational purpose, can sent image, text to each other with real time.",
+      "Mini Real-Time Chat Application – Developed for educational purposes. Users can send text messages and images in real time, customize chat themes, and enjoy a responsive messaging experience.",
     image: pj_two,
     tech: ["React.js", "MongoDB", "Tanstack Query", "Zustand", "Web socket", "Node.js"],
     github: "https://github.com/Kzt224/chat_app.git",
