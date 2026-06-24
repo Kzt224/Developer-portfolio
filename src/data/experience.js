@@ -10,7 +10,7 @@ export const experience = [
   {
     id: "2",
     role: "Full-stack Developer",
-    company: "Freelence project",
+    company: "Freelance project",
     period: "2024 – Present",
     description: "Completed freelance full-stack development projects including Dev Mind (developer platform) and an e-commerce application. Responsible for designing, developing, and deploying core features, improving UI/UX, and ensuring scalable and maintainable architecture."
   },
