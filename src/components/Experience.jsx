@@ -27,7 +27,7 @@ export function Experience() {
               className={cn(
                 "relative flex gap-6 pb-10 last:pb-0",
                 i < experience.length - 1 &&
-                  "before:absolute before:left-[7px] before:top-6 before:bottom-0 before:w-px before:bg-zinc-200 dark:before:bg-zinc-800"
+                "before:absolute before:left-[7px] before:top-6 before:bottom-0 before:w-px before:bg-zinc-200 dark:before:bg-zinc-800"
               )}
             >
               <div
